@@ -12,8 +12,7 @@ import java.awt.geom.Point2D;
 /**
  * A program to create a baseball game
  * 
- * @author Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
 
 public class BaseballGame extends MouseAdapter implements Runnable, ActionListener, KeyListener {
