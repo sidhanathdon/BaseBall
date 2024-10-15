@@ -6,8 +6,7 @@ import javax.swing.JComponent;
  * default versions of methods that are needed by threaded objects
  * representing animated graphics objects.
  * 
- * @author Jim Teresco, modified by Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
 public abstract class AnimatedGraphicsObject extends Thread {
 
