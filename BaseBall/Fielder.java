@@ -5,8 +5,7 @@ import java.awt.geom.Point2D;
 /**
  * The Fielder class is in charge of the fielders who are moving to catch the fielder
  * 
- * @author Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
 class Fielder extends AnimatedGraphicsObject {
     // delay time between frames of animation (ms)
