@@ -5,8 +5,7 @@ import java.awt.geom.Point2D;
 /**
  * The Runner class is responsible for the runners moving to the next base
  *
- * @author Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
 public class Runner extends AnimatedGraphicsObject {
     // delay time between frames of animation (ms)
