@@ -6,8 +6,7 @@ import java.util.Random;
 /**
  * The Ball class is in charge of the pitch being dropped from the pitchers mound
  * 
- * @author Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
  class Ball extends AnimatedGraphicsObject{
       // delay time between frames of animation (ms)
