@@ -5,8 +5,7 @@ import java.awt.geom.Point2D;
 /**
  * The hit class is in charge of the hit moving to the point calculated in the BaseballGame class
  * 
- * @author Justin Montagne, Sam Goldstein, Arizona Belden, and Anthony Russo
- * @version Spring 2022
+ * @author Sidhanath Verekar
  */
 class Hit extends AnimatedGraphicsObject {
     // delay time between frames of animation (ms)
